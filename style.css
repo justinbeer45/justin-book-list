@@ -1,0 +1,42 @@
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+body{
+  text-align: left;
+}
+
+table{
+  border: 2px solid black;
+  width: 100%;
+}
+
+th{
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 2px solid black;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+}
+
+td {
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.title{
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.author{
+  text-transform: capitalize;
+}
