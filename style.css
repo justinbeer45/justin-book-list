@@ -4,7 +4,7 @@ h1{
   text-transform: uppercase;
   font-size: 50px;
   font-weight: bold;
-  background-color: forestgreen;
+  background-color: lightblue;
 }
 
 body{
@@ -36,8 +36,10 @@ td {
 .title{
   font-style: italic;
   text-transform: uppercase;
+  background-color: forestgreen;
 }
 
 .author{
   text-transform: capitalize;
+  background-color: forestgreen;
 }
